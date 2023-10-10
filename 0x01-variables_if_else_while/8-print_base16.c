@@ -6,6 +6,7 @@
  * Return: Always Zero(0) Success
  */
 
+/* Starting the main function */
 int main(void)
 {
 	char hexanumber = 0x30;
