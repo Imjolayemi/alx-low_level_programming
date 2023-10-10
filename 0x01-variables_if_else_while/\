@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+/**
+ * main - Entry Point
+ *
+ * Return: Always zero(0) Success
+ */
+
+int main(void)
+{
+	int a = 48;
+	int b = 48;
+
+	for (; a <= 57; a++)
+	{
+		for (; b <= 57; b++)
+		{
+			putchar(a);
+			putchar(b);
+			putchar(44);
+			putchar(32);
+		}
+	}
+	putchar('\n');
+	return (0);
+}
