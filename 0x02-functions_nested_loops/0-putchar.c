@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include "main.h"
 
-/* main - Entry Point
+/**
+ * main - Entry Point
  *
  * Return: Always zero(0) Success
  */
 
+/* main function that prints out the value */
 int main(void)
 {
 	_putchar('_');
