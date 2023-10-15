@@ -9,7 +9,6 @@
  * error returns (-1)
  */
 
-/* Declaration of function */
 void print_alphabet_x10(void)
 {
 	int a, length;
