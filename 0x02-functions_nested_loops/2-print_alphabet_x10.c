@@ -2,6 +2,11 @@
 #include "main.h"
 
 /**
+ * print_alphabet - print out alphabet to the stdio
+ * @void: Representing empty value
+ *
+ * Return: For Successful execution it returns (1)
+ * error returns (-1)
  */
 
 /* Declaration of function */
