@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * _strlen - The function to know the length of a string
- * @s: string to know the length
- * @length: Determine the length of the string
+ * _strlen - The function 
+ * @s: string to count
  *
  * Return: Always return the value of length if successfull
  */
